@@ -1,4 +1,3 @@
---ayy lmoa
 function love.load()
   HALF_WIDTH = love.graphics.getWidth() / 2
   HALF_HEIGHT = love.graphics.getHeight() / 2
